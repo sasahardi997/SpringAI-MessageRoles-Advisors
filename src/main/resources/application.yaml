@@ -3,7 +3,7 @@ spring:
     name: messageroles
   ai:
     openai:
-      api-key: dummy-not-required
+      api-key: ignored
       chat:
         base-url: http://localhost:12434/v1
         options:
